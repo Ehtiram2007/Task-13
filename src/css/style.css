@@ -1,0 +1,60 @@
+body{
+    background-color: aqua;
+}
+img{
+    position: relative;
+    margin: 100px auto;
+left: 390px;
+}
+.img1{
+    width: 400px;
+    height: 400px;
+    position: absolute;
+    object-fit: cover;
+    object-position: center;
+}
+.img2{
+    bottom: 406px;
+ right: 300px;
+    width: 250px;
+    height: 250px;
+    position: absolute;
+    object-fit: cover;
+    object-position: center;
+}
+.img3{
+    bottom: 404px;
+    left: 250px;
+    width: 300px;
+    height: 200px;
+    position: absolute;
+    object-fit: cover;
+    object-position: center;
+}
+.img4{
+    bottom: 0px;
+    left: 275px;
+    width: 250px;
+    height: 250px; 
+    position: absolute;
+    object-fit: cover;
+    object-position: center;
+}
+.img5{
+    right: 230px;
+    bottom: -1px;
+    width:250px;
+    height: 250px;
+    position: absolute;
+    object-fit: cover;
+    object-position: center;
+}
+.img6{
+    right: 680px;
+    bottom: 207px;
+    width: 200px;
+    height: 200px;
+    position: absolute;
+    object-fit: cover;
+    object-position: center;
+}
